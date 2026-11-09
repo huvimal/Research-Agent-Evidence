@@ -1,0 +1,12 @@
+{
+  "topic": "So sánh mục tiêu, triển khai và đánh giá chương trình Mây Xanh",
+  "queries": ["Mây Xanh mục tiêu", "Mây Xanh triển khai", "Mây Xanh đánh giá"],
+  "sources": [
+    {"id":"D1","title":"Mây Xanh mục tiêu chương trình","text":"Mây Xanh đặt mục tiêu thu gom 300 kg nhựa trong ba tháng."},
+    {"id":"D2","title":"Mây Xanh mục tiêu và bối cảnh","text":"Chương trình Mây Xanh được đề xuất trong kế hoạch cộng đồng tháng Ba."},
+    {"id":"D3","title":"Mây Xanh mục tiêu bổ sung","text":"Chương trình Mây Xanh đặt thêm mục tiêu tổ chức hai buổi hướng dẫn phân loại rác."},
+    {"id":"D4","title":"Mây Xanh triển khai tại khu dân cư","text":"Nhóm triển khai đặt ba điểm thu gom tại khu dân cư."},
+    {"id":"D5","title":"Mây Xanh đánh giá giữa kỳ","text":"Báo cáo đánh giá giữa kỳ ghi nhận 120 kg nhựa đã được thu gom."}
+  ],
+  "expected_topics": {"objective":"D1","implementation":"D4","evaluation":"D5"}
+}
